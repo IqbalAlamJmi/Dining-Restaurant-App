@@ -1,1 +1,1 @@
----Dining Restaurant App using react---
+--React App for Dining Restaurant-- Method Used: Custom API, Hooks, HOC, JSON, DOM etc.
